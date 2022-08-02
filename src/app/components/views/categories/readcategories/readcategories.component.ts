@@ -20,6 +20,7 @@ export class READcategoriesComponent implements OnInit {
         "id",
         "categoryName",
         "categoryDescription",
+        "characters",
         "actions",
     ];
 

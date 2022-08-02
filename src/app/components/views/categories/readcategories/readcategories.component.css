@@ -14,6 +14,45 @@
     }
 }
 
+
 .table{
     width: 100%;
+}
+
+.editicon {
+    color:darkgray;
+    margin-left: 9rem;
+}
+
+.deleteicon{
+    color:darkgray;
+    margin-left: 1rem;
+}
+
+.readicon{
+    color:darkgray;
+}
+
+i{
+    position: relative;
+    top: 5px;
+    padding-bottom: 10px;
+    padding-left: 3rem;
+}
+
+.actionheader{
+    text-align: center;
+    align-content: center;
+}
+
+.characterheader{
+    text-align: center;
+    align-content: center;
+}
+
+.button{
+    margin: 3rem;
+    margin-left: 1.6rem;
+    color: black;
+    background-color: darkgray;
 }
