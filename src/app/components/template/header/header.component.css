@@ -1,0 +1,21 @@
+img {
+    height: 3rem; /*67 68 62 is the image background in RGB format*/
+    border-radius: 30px;
+    margin: 20px;
+}
+body {
+    background-color: burlywood;
+    color: burlywood
+}
+.header {
+    justify-content: baseline;
+    height: 10%;
+}
+span {
+    display: flex;
+    align-items: center;
+}
+h1 {
+    font-family: Cambria;
+    font-size: 26px;
+}
