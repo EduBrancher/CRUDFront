@@ -1,0 +1,19 @@
+.content {
+    width: 95%;
+    margin: 1rem auto;
+
+}
+
+.title{
+    margin: 3px
+}
+
+@media(max-width: 450px){
+    .home{
+        width:70%;
+    }
+}
+
+.table{
+    width: 100%;
+}
